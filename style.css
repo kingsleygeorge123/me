@@ -607,7 +607,7 @@ footer li {
   }
 }
 
-@media only screen and (max-width:350px) and (min-width:100px){
+@media only screen and (max-width:480px) and (min-width:320px){
   .header {
     top: 0;
     background-color:#f50a0a;
