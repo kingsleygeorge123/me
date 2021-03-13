@@ -639,17 +639,17 @@ footer li {
     color: #fff;
   }
   .feature-title{
-    font-size: 1.7rem;
+    font-size: 1.5rem;
   }
   #hey-p {
     font-family: sofia;
-    font-size: 1.3rem;
+    font-size: 1.2rem;
     color: #fff;
     font-style: italic;
     margin-top: .5rem;
   }
   #address{
-    padding-left: .5rem;
+    padding-left: 1.5rem;
   }
 }
 
