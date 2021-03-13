@@ -1,7 +1,7 @@
 $(document).ready(function () {
-  var breakpoint = 400;
+  var breakpoint = 200;
 
-  // If the screen is smaller then 400px wide remove all classes.
+  // If the screen is smaller then 200px wide remove all classes.
   if ($(window).width() < breakpoint) {
     $('.js-slidein').removeClass('js-slidein');
   }
