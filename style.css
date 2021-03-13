@@ -639,7 +639,7 @@ footer li {
     color: #fff;
   }
   .feature-title{
-    font-size: 1.5rem;
+    font-size: 1.4rem;
   }
   #hey-p {
     font-family: sofia;
@@ -649,7 +649,10 @@ footer li {
     margin-top: .5rem;
   }
   #address{
-    padding-left: 1.5rem;
+    margin: 0 auto;
+    text-align: center;
+    justify-content: center;
+    align-self:center;	  
   }
 }
 
