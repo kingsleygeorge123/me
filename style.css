@@ -303,7 +303,7 @@ height: 100vh;
   font-family: "sofia";
   padding-top: 2rem;
   padding-bottom: 3rem;
-  background-color: #0004ff;
+  background-color: rgb(21, 10, 26);
   color: #fff;
 }
 
@@ -392,7 +392,7 @@ textarea{
   margin: 1rem;
   width: 100%;
   height: 60px;
-  background-color: #000;
+  background-color: rgb(21, 10, 26);
   color: #fff;
   font-size: 1.3rem;
   border: none;
@@ -622,20 +622,20 @@ footer li {
     padding: 0;
     list-style: none;
     overflow: hidden;
-    background-color: #f50a0a;
+    background-color: rgb(21, 10, 26);
   }
   #form-btn{
     margin: 1rem;
     width: 100%;
     height: 60px;
-    background-color: #f50a0a;
+    background-color: rgb(21, 10, 26);
     color: #fff;
     font-size: 1.3rem;
     border: none;
     cursor: pointer;
   }
   #form-btn:hover{
-    background-color: #000;
+    background-color: #f50a0a;
     color: #fff;
   }
   .feature-title{
@@ -649,6 +649,7 @@ footer li {
     margin-top: .5rem;
   }
   #address{
+    position: absolute;
     margin: 0 auto;
     text-align: center;
     justify-content: center;
