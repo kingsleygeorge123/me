@@ -350,6 +350,7 @@ height: 100vh;
 
 /* form section */
 #contact {
+  display: block;
   background-color: rgb(139, 124, 124);
  margin: 0 auto;
  text-align: center;
