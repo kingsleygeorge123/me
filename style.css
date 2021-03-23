@@ -505,6 +505,15 @@ footer li {
   .btn-1 {
     color:#fff;
   }
+
+  
+.feature-title {
+  font-family: "Lobster";
+  font-size: 1.8rem;
+  color: #f50a0a;
+  padding-top: 1rem;
+  text-shadow: 1px 1px white;
+}
   
   .btn-outline-light {
     border: 2px solid #fff;
@@ -541,7 +550,7 @@ footer li {
     font-size: 2.8rem;
   }
   .feature-title{
-    font-size: 2.5rem;
+    font-size: 6vw;
   }
   .display-3{
     color: #f50a0a;
@@ -576,7 +585,7 @@ footer li {
     }
    
     .feature-title{
-      font-size: 2.1rem;
+      font-size: 7vw;
     }
     #img{
       width: 100px;
@@ -642,7 +651,7 @@ footer li {
     color: #fff;
   }
   .feature-title{
-    font-size: 1.7rem;
+    font-size: 6vw;
   }
   #hey-p {
     font-family: sofia;
@@ -654,6 +663,10 @@ footer li {
   #address{
     padding-left: .5rem;
   }
+  .page-header {
+      border-radius: 0px 0px 0px 100px;
+    }
+    
 }
 
 
