@@ -151,6 +151,7 @@ height: 100vh;
   background-position: center;
   background-repeat: no-repeat;
   background-size: 100%;
+  border-radius: 0px 0px 0px 90px;
 }
 
 
@@ -303,7 +304,8 @@ height: 100vh;
   font-family: "sofia";
   padding-top: 2rem;
   padding-bottom: 3rem;
-  background-color: rgb(21, 10, 26);
+  background-color:rgb(21, 10, 26);
+  border-radius: 15px 70px;
   color: #fff;
 }
 
@@ -350,10 +352,10 @@ height: 100vh;
 
 /* form section */
 #contact {
-  display: block;
   background-color: rgb(139, 124, 124);
  margin: 0 auto;
  text-align: center;
+ border-radius: 15px 70px;
 }
 
 .contact, .address{
@@ -608,7 +610,7 @@ footer li {
   }
 }
 
-@media only screen and (max-width:480px) and (min-width:320px){
+@media (min-width:100px) and (max-width:350px){
   .header {
     top: 0;
     background-color:rgb(21, 10, 26);
@@ -640,22 +642,18 @@ footer li {
     color: #fff;
   }
   .feature-title{
-    font-size: 1.5rem;
+    font-size: 1.7rem;
   }
   #hey-p {
     font-family: sofia;
-    font-size: 1.2rem;
+    font-size: 1.3rem;
     color: #fff;
     font-style: italic;
     margin-top: .5rem;
   }
   #address{
-    margin: 0 auto;
-    text-align: center;
-    justify-content: center;
-    align-self:center;	  
+    padding-left: .5rem;
   }
-
 }
 
 
